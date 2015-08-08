@@ -1,1 +1,3 @@
-aoksdmaoksmdok
+<?php
+echo "echo";
+?>
