@@ -31,8 +31,11 @@ sincroniza o repositorio __local__ com o que ha no __remoto__
 #### git pull
 igual ao ___push___ so que este envia para o remoto o que ha no repositorio local
 
+#### git tag 0.0.0
+coloca uma tag no commit atual, para setar a versão atual do codigo/sistema
+
 #### git init --bare
 cria um repositorio apenas de armazanamento, como o proprio github, mas localmente
 
-#### hooks
+#### __hooks__
 no repositorio criado com o parametro __--bare__, podesse fazer automação dos arquivos, como copia-los para um servidor, compilar ou qualquer outro tipo de automação que deseje.
