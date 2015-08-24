@@ -2,7 +2,29 @@
 
 curso ministrado pela code education/school of net, acessado em agosto de 2015.
 
-## comandos usados
+## Release 0.1.1
+
+### configurações do github
+#### como setar o seu nome nos commits globalmente na maquina
+git config --global user.name "SEU NOME"
+
+#### como setar o seu email globalmente
+git config --global user.email "SEUNOME@E.MAIL"
+
+#### setar o editor de texto padrao para o git
+git config --global core.editor atom
+
+#### setar a ferramenta para o diff (resolução de conflito de merge)
+git config --global merge.tool DIFF_TOOL
+
+#### exibir as configurações usadas
+git config --list
+
+
+##Release 0.1.0
+
+### comandos usados
+
 #### git init
 inicia um repositorio na pasta atual
 bare
