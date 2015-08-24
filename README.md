@@ -5,6 +5,7 @@ curso ministrado pela code education/school of net, acessado em agosto de 2015.
 ## Release 0.1.1
 
 ### configurações do github
+
 #### como setar o seu nome nos commits globalmente na maquina
 git config --global user.name "SEU NOME"
 
